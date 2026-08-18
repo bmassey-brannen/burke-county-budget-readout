@@ -1,0 +1,641 @@
+[
+  {
+    "name": "Administration",
+    "group": "General Fund departments",
+    "fy2026": 1337020,
+    "fy2027": 1355900,
+    "delta": 18880,
+    "pct": 0.014120955557882455,
+    "source_page": 1
+  },
+  {
+    "name": "Legal Services",
+    "group": "General Fund departments",
+    "fy2026": 140000,
+    "fy2027": 140000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 1
+  },
+  {
+    "name": "Contingency",
+    "group": "General Fund departments",
+    "fy2026": 380000,
+    "fy2027": 380000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 1
+  },
+  {
+    "name": "Airport",
+    "group": "General Fund departments",
+    "fy2026": 169350,
+    "fy2027": 207410,
+    "delta": 38060,
+    "pct": 0.2247416592855034,
+    "source_page": 1
+  },
+  {
+    "name": "Animal Control",
+    "group": "General Fund departments",
+    "fy2026": 725790,
+    "fy2027": 675580,
+    "delta": -50210,
+    "pct": -0.06917979029746897,
+    "source_page": 1
+  },
+  {
+    "name": "Archives",
+    "group": "General Fund departments",
+    "fy2026": 15360,
+    "fy2027": 14520,
+    "delta": -840,
+    "pct": -0.0546875,
+    "source_page": 1
+  },
+  {
+    "name": "Elections",
+    "group": "General Fund departments",
+    "fy2026": 306490,
+    "fy2027": 313530,
+    "delta": 7040,
+    "pct": 0.022969754314985807,
+    "source_page": 1
+  },
+  {
+    "name": "Burke Co Svc Cntr",
+    "group": "General Fund departments",
+    "fy2026": 8520,
+    "fy2027": 18040,
+    "delta": 9520,
+    "pct": 1.1173708920187793,
+    "source_page": 1
+  },
+  {
+    "name": "Office Park",
+    "group": "General Fund departments",
+    "fy2026": 60230,
+    "fy2027": 87120,
+    "delta": 26890,
+    "pct": 0.4464552548563839,
+    "source_page": 1
+  },
+  {
+    "name": "Chamber of Comm",
+    "group": "General Fund departments",
+    "fy2026": 21000,
+    "fy2027": 21000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 1
+  },
+  {
+    "name": "Clerk of Courts",
+    "group": "General Fund departments",
+    "fy2026": 979440,
+    "fy2027": 1020150,
+    "delta": 40710,
+    "pct": 0.04156456750796374,
+    "source_page": 1
+  },
+  {
+    "name": "Board of Equalization",
+    "group": "General Fund departments",
+    "fy2026": 13500,
+    "fy2027": 14200,
+    "delta": 700,
+    "pct": 0.05185185185185185,
+    "source_page": 1
+  },
+  {
+    "name": "Coroner",
+    "group": "General Fund departments",
+    "fy2026": 117030,
+    "fy2027": 121650,
+    "delta": 4620,
+    "pct": 0.03947705716482953,
+    "source_page": 1
+  },
+  {
+    "name": "County Agent",
+    "group": "General Fund departments",
+    "fy2026": 235510,
+    "fy2027": 251280,
+    "delta": 15770,
+    "pct": 0.06696106322449152,
+    "source_page": 1
+  },
+  {
+    "name": "CSRA RC",
+    "group": "General Fund departments",
+    "fy2026": 19500,
+    "fy2027": 19500,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 1
+  },
+  {
+    "name": "District Attorney",
+    "group": "General Fund departments",
+    "fy2026": 360850,
+    "fy2027": 420700,
+    "delta": 59850,
+    "pct": 0.1658583899127061,
+    "source_page": 1
+  },
+  {
+    "name": "Georgia Forestry",
+    "group": "General Fund departments",
+    "fy2026": 32500,
+    "fy2027": 32500,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 1
+  },
+  {
+    "name": "Health Department",
+    "group": "General Fund departments",
+    "fy2026": 236750,
+    "fy2027": 237040,
+    "delta": 290,
+    "pct": 0.001224920802534319,
+    "source_page": 1
+  },
+  {
+    "name": "Juvenile Court",
+    "group": "General Fund departments",
+    "fy2026": 194950,
+    "fy2027": 198120,
+    "delta": 3170,
+    "pct": 0.016260579635804052,
+    "source_page": 1
+  },
+  {
+    "name": "Library",
+    "group": "General Fund departments",
+    "fy2026": 648770,
+    "fy2027": 714610,
+    "delta": 65840,
+    "pct": 0.10148434730335866,
+    "source_page": 1
+  },
+  {
+    "name": "Magistrate Court",
+    "group": "General Fund departments",
+    "fy2026": 727910,
+    "fy2027": 755330,
+    "delta": 27420,
+    "pct": 0.03766949210754077,
+    "source_page": 1
+  },
+  {
+    "name": "Museum",
+    "group": "General Fund departments",
+    "fy2026": 29930,
+    "fy2027": 30140,
+    "delta": 210,
+    "pct": 0.0070163715335783495,
+    "source_page": 1
+  },
+  {
+    "name": "Planning Comm",
+    "group": "General Fund departments",
+    "fy2026": 510650,
+    "fy2027": 498900,
+    "delta": -11750,
+    "pct": -0.023009889356702243,
+    "source_page": 1
+  },
+  {
+    "name": "Probate Court",
+    "group": "General Fund departments",
+    "fy2026": 292330,
+    "fy2027": 303860,
+    "delta": 11530,
+    "pct": 0.039441726815585124,
+    "source_page": 1
+  },
+  {
+    "name": "Facilities Maintenance",
+    "group": "General Fund departments",
+    "fy2026": 1727890,
+    "fy2027": 1788660,
+    "delta": 60770,
+    "pct": 0.03517006290909722,
+    "source_page": 1
+  },
+  {
+    "name": "Information Technology",
+    "group": "General Fund departments",
+    "fy2026": 773700,
+    "fy2027": 766100,
+    "delta": -7600,
+    "pct": -0.009822928783766317,
+    "source_page": 1
+  },
+  {
+    "name": "Burke County Annex Building",
+    "group": "General Fund departments",
+    "fy2026": 145300,
+    "fy2027": 90610,
+    "delta": -54690,
+    "pct": -0.37639366827253956,
+    "source_page": 1
+  },
+  {
+    "name": "Recreation Dept.",
+    "group": "General Fund departments",
+    "fy2026": 1896100,
+    "fy2027": 1751780,
+    "delta": -144320,
+    "pct": -0.07611412900163493,
+    "source_page": 1
+  },
+  {
+    "name": "Roads and Bridges",
+    "group": "General Fund departments",
+    "fy2026": 6379550,
+    "fy2027": 5913810,
+    "delta": -465740,
+    "pct": -0.07300514926601406,
+    "source_page": 2
+  },
+  {
+    "name": "Senior Citizens",
+    "group": "General Fund departments",
+    "fy2026": 334810,
+    "fy2027": 414850,
+    "delta": 80040,
+    "pct": 0.23906095994743287,
+    "source_page": 2
+  },
+  {
+    "name": "Sheriff's Office/Detention Ctr.",
+    "group": "General Fund departments",
+    "fy2026": 13032800,
+    "fy2027": 13450640,
+    "delta": 417840,
+    "pct": 0.032060646982996745,
+    "source_page": 2
+  },
+  {
+    "name": "Soil Conservation",
+    "group": "General Fund departments",
+    "fy2026": 19100,
+    "fy2027": 20850,
+    "delta": 1750,
+    "pct": 0.09162303664921466,
+    "source_page": 2
+  },
+  {
+    "name": "State Court",
+    "group": "General Fund departments",
+    "fy2026": 517080,
+    "fy2027": 534900,
+    "delta": 17820,
+    "pct": 0.03446275237874217,
+    "source_page": 2
+  },
+  {
+    "name": "Superior Court",
+    "group": "General Fund departments",
+    "fy2026": 681860,
+    "fy2027": 786100,
+    "delta": 104240,
+    "pct": 0.1528759569413076,
+    "source_page": 2
+  },
+  {
+    "name": "Judicial Center",
+    "group": "General Fund departments",
+    "fy2026": 143440,
+    "fy2027": 343670,
+    "delta": 200230,
+    "pct": 1.395914668153932,
+    "source_page": 2
+  },
+  {
+    "name": "Tax Assessors",
+    "group": "General Fund departments",
+    "fy2026": 549360,
+    "fy2027": 645890,
+    "delta": 96530,
+    "pct": 0.17571355759429155,
+    "source_page": 2
+  },
+  {
+    "name": "Tax Commissioner",
+    "group": "General Fund departments",
+    "fy2026": 713490,
+    "fy2027": 771750,
+    "delta": 58260,
+    "pct": 0.08165496362948324,
+    "source_page": 2
+  },
+  {
+    "name": "Welfare",
+    "group": "General Fund departments",
+    "fy2026": 10000,
+    "fy2027": 10000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 2
+  },
+  {
+    "name": "Vehicle Maintenance",
+    "group": "General Fund departments",
+    "fy2026": 1790860,
+    "fy2027": 1589060,
+    "delta": -201800,
+    "pct": -0.11268329182627342,
+    "source_page": 2
+  },
+  {
+    "name": "Detention Center Renov.",
+    "group": "General Fund departments",
+    "fy2026": 3000000,
+    "fy2027": 2500000,
+    "delta": -500000,
+    "pct": -0.16666666666666666,
+    "source_page": 2
+  },
+  {
+    "name": "Transfers to Other Funds",
+    "group": "General Fund departments",
+    "fy2026": 5690930,
+    "fy2027": 5341050,
+    "delta": -349880,
+    "pct": -0.06148028529607639,
+    "source_page": 2
+  },
+  {
+    "name": "SUPMTL Juvenile Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 3310,
+    "fy2027": 1820,
+    "delta": -1490,
+    "pct": -0.4501510574018127,
+    "source_page": 2
+  },
+  {
+    "name": "Sheriff's Commissions",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 116000,
+    "fy2027": 105000,
+    "delta": -11000,
+    "pct": -0.09482758620689655,
+    "source_page": 2
+  },
+  {
+    "name": "Clerk's Imaging",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 52000,
+    "fy2027": 52000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 2
+  },
+  {
+    "name": "School Zone Camera Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 2000000,
+    "fy2027": 1050000,
+    "delta": -950000,
+    "pct": -0.475,
+    "source_page": 2
+  },
+  {
+    "name": "Law Library Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 10000,
+    "fy2027": 10000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 2
+  },
+  {
+    "name": "Jail Improvement Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 50100,
+    "fy2027": 45050,
+    "delta": -5050,
+    "pct": -0.10079840319361277,
+    "source_page": 2
+  },
+  {
+    "name": "Drug Enforcement Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 53250,
+    "fy2027": 0,
+    "delta": -53250,
+    "pct": -1.0,
+    "source_page": 2
+  },
+  {
+    "name": "Drug Abuse Education",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 25050,
+    "fy2027": 18050,
+    "delta": -7000,
+    "pct": -0.27944111776447106,
+    "source_page": 2
+  },
+  {
+    "name": "Victims Assistance Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 26100,
+    "fy2027": 24000,
+    "delta": -2100,
+    "pct": -0.08045977011494253,
+    "source_page": 2
+  },
+  {
+    "name": "Accountability Courts Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 233230,
+    "fy2027": 232620,
+    "delta": -610,
+    "pct": -0.002615443982335034,
+    "source_page": 2
+  },
+  {
+    "name": "Confiscated Assets Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 20100,
+    "fy2027": 2000,
+    "delta": -18100,
+    "pct": -0.900497512437811,
+    "source_page": 2
+  },
+  {
+    "name": "Opioids Settlement Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 10000,
+    "fy2027": 2500,
+    "delta": -7500,
+    "pct": -0.75,
+    "source_page": 2
+  },
+  {
+    "name": "E911 Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 1481310,
+    "fy2027": 1558620,
+    "delta": 77310,
+    "pct": 0.05219029102618628,
+    "source_page": 2
+  },
+  {
+    "name": "Large Grants Fund",
+    "group": "Special revenue & public safety funds",
+    "fy2026": 418900,
+    "fy2027": 0,
+    "delta": -418900,
+    "pct": -1.0,
+    "source_page": 2
+  },
+  {
+    "name": "BVP Grant",
+    "group": "Grants",
+    "fy2026": 10000,
+    "fy2027": 10000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 3
+  },
+  {
+    "name": "ACCG Group Hlth Grant",
+    "group": "Grants",
+    "fy2026": 2000,
+    "fy2027": 8000,
+    "delta": 6000,
+    "pct": 3.0,
+    "source_page": 3
+  },
+  {
+    "name": "GA Trauma Commission",
+    "group": "Grants",
+    "fy2026": 10000,
+    "fy2027": 10000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 3
+  },
+  {
+    "name": "GA Power Industrial Grant",
+    "group": "Grants",
+    "fy2026": 10000,
+    "fy2027": 45000,
+    "delta": 35000,
+    "pct": 3.5,
+    "source_page": 3
+  },
+  {
+    "name": "WC Safety Grant",
+    "group": "Grants",
+    "fy2026": 8000,
+    "fy2027": 8000,
+    "delta": 0,
+    "pct": 0.0,
+    "source_page": 3
+  },
+  {
+    "name": "Fire Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 14141140,
+    "fy2027": 14671040,
+    "delta": 529900,
+    "pct": 0.037472226425875145,
+    "source_page": 3
+  },
+  {
+    "name": "SPLOST III Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 1600000,
+    "fy2027": 1200000,
+    "delta": -400000,
+    "pct": -0.25,
+    "source_page": 3
+  },
+  {
+    "name": "SPLOST IV Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 6815000,
+    "fy2027": 4175000,
+    "delta": -2640000,
+    "pct": -0.3873807776962582,
+    "source_page": 3
+  },
+  {
+    "name": "SPLOST V Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 7175000,
+    "fy2027": 7400000,
+    "delta": 225000,
+    "pct": 0.0313588850174216,
+    "source_page": 3
+  },
+  {
+    "name": "T-SPLOST Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 5114710,
+    "fy2027": 7679310,
+    "delta": 2564600,
+    "pct": 0.5014165025974102,
+    "source_page": 3
+  },
+  {
+    "name": "Capital Projects Fund",
+    "group": "Capital & infrastructure funds",
+    "fy2026": 467680,
+    "fy2027": 0,
+    "delta": -467680,
+    "pct": -1.0,
+    "source_page": 3
+  },
+  {
+    "name": "Landfill Collection",
+    "group": "Enterprise & operating funds",
+    "fy2026": 3040200,
+    "fy2027": 2957620,
+    "delta": -82580,
+    "pct": -0.027162686665350964,
+    "source_page": 3
+  },
+  {
+    "name": "Landfill Disposal",
+    "group": "Enterprise & operating funds",
+    "fy2026": 1639390,
+    "fy2027": 1718660,
+    "delta": 79270,
+    "pct": 0.048353350941508735,
+    "source_page": 3
+  },
+  {
+    "name": "Burke Transit Fund",
+    "group": "Enterprise & operating funds",
+    "fy2026": 706710,
+    "fy2027": 758130,
+    "delta": 51420,
+    "pct": 0.07275968926433757,
+    "source_page": 3
+  },
+  {
+    "name": "Broadband Utility Fund",
+    "group": "Enterprise & operating funds",
+    "fy2026": 1800000,
+    "fy2027": 3783500,
+    "delta": 1983500,
+    "pct": 1.1019444444444444,
+    "source_page": 3
+  },
+  {
+    "name": "Industrial Dev Fund",
+    "group": "Enterprise & operating funds",
+    "fy2026": 3204380,
+    "fy2027": 3163630,
+    "delta": -40750,
+    "pct": -0.012716968649161461,
+    "source_page": 3
+  }
+]
